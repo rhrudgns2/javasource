@@ -8,7 +8,9 @@ public class ExceptionTest2 {
 		int value2 =Integer.parseInt(data2);
 		
 		System.out.println(value1 + value2);
+		
 		System.out.println(value1);
+		System.out.println(value2);
 	}
 
 }
